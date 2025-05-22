@@ -1,1 +1,1 @@
-# smallstreamer
+# minstreamer
